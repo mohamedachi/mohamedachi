@@ -3,10 +3,10 @@
 ## 💫 About Me:
 **🔭 I’m currently:** Completed my Engineering degree in Computer Science at ESPRIT (2020 - 2025) and i'm looking for a job in Software Engineering 
 **👯 I’m looking to collaborate on:** Open-source projects involving Agentic AI and Multimodal RAG.
-**🤝 I’m looking for help with:** Connecting with tech teams for Full-Stack or Mobile Engineering roles[cite: 1, 6].
-**🌱 I’m currently learning:** Advanced Retrieval-Augmented Generation (RAG) and Cloud Architecture[cite: 41, 48, 49].
-**💬 Ask me about:** Building scalable mobile apps with Kotlin or real-time systems using NestJS[cite: 10, 16, 44].
-**⚡ Fun fact:** I developed an eco-friendly transport app that reduced carbon footprints for test routes by 20%[cite: 36, 38].
+**🤝 I’m looking for help with:** Connecting with tech teams for Full-Stack or Mobile Engineering roles.
+**🌱 I’m currently learning:** Advanced Retrieval-Augmented Generation (RAG) and Cloud Architecture.
+**💬 Ask me about:** Building scalable mobile apps with Kotlin or real-time systems using NestJS.
+**⚡ Fun fact:** I developed an eco-friendly transport app that reduced carbon footprints for test routes by 20%.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-achi/) 
