@@ -1,6 +1,6 @@
-## Hi there 👋 
+# Hi there 👋 
 
-# 💫 About Me:
+## 💫 About Me:
 **🔭 I’m currently:** Completed my Engineering degree in Computer Science at ESPRIT (2020 - 2025) and i'm looking for a job in Software Engineering 
 **👯 I’m looking to collaborate on:** Open-source projects involving Agentic AI and Multimodal RAG.
 **🤝 I’m looking for help with:** Connecting with tech teams for Full-Stack or Mobile Engineering roles[cite: 1, 6].
