@@ -1,4 +1,4 @@
-### [cite_start]Hi there 👋 [cite: 1]
+### Hi there 👋 
 
 # 💫 About Me:
 * [cite_start]**🔭 I’m currently:** Completing my Engineering degree in Computer Science at ESPRIT (2020 - 2025)[cite: 53, 54, 59].
